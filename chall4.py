@@ -1,6 +1,7 @@
 import chall3_modular as xor
 import string
 
+# DETECT SINGLE CHAR XOR
 file = open("lines.txt")
 dct = {}
 for line in file:
