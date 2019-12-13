@@ -1,1 +1,1 @@
-# Cryptopals Solutions - SET 1
+# Cryptopals Solutions
